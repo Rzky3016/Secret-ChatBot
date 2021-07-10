@@ -1,9 +1,9 @@
 {
-  "name": "Project-Bot",
-  "description": "Bot anonymous chat telegram.",
-  "repository": "https://github.com/apisuserbot/Project-Bot",
-  "logo": "https://telegra.ph/file/f9edcf0f82516206171d9.jpg",
-  "keywords": ["Project-Bot", "telegram", "python"],
+  "name": "𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏",
+  "description": "Bot yang dirancang seperti anonymous chatbot telegram.",
+  "repository": "https://github.com/Rzky3016/Secret-ChatBot",
+  "logo": "https://telegra.ph/file/5fa1a03147b7ee32919bb.jpg",
+  "keywords": ["Secret-ChatBot", "telegram", "python"],
   "env": {
     "ADMIN": {
       "description": "Isi dengan id admin",
@@ -33,22 +33,22 @@
     "GROUP_SUPPORT": {
       "description": "Bikin Sebuah Group Support Untuk Chat Tanpa Harus Menggunakan @ (kalo gak di rubah gapapa)",
       "required": false,
-      "value": "project_to_chat"
+      "value": "RANDOM_GC"
     },
     "GROUP_CHAT": {
       "description": "Isi dengan username group kalian tanpa tanda @ (kalo gak di rubah gapapa)",
       "required": false,
-      "value": "Cari_Teman_Online_Group"
+      "value": "RANDOM_GC"
     },
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": false,
-      "value": "PROJECT BOT"
+      "value": "𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ (kalo gak di rubah gapapa)",
       "required": false,
-      "value": "Quotes_Channel_Official"
+      "value": "ruangkataini"
     }
   }
 }
