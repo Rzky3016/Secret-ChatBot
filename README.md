@@ -1,14 +1,14 @@
-# Project-Bot
+# 𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏
 
-Project-Bot adalah sebuah bot yang mirip sekali dengan anonymous , Dan kalian bisa menyari pasangan anda dengan bot ini.
+𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏 adalah sebuah bot yang dirancang mirip sekali dengan anonymous bot , Dan kalian bisa menyari teman atau pasangan anda dengan bot ini.
  
-![Teman Online Logo](https://telegra.ph/file/2ae553876a8e905b62f70.jpg)
+![𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏 Logo](https://telegra.ph/file/2ae553876a8e905b62f70.jpg)
 
-Gabung grup chat kami [Teman Online](https://t.me/Cari_Teman_Online_Group)
-Quotes kami [Quotes Official](https://t.me/Quotes_Channel_Official)
+Gabung grup chat kami [𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏](https://t.me/https://t.me/RANDOM_GC)
+Quotes kami [Ruang Kata](https://t.me/https://t.me/ruangkataini)
 
 <b>
-<a href="https://heroku.com/deploy?template=https://github.com/apisuserbot/Project-Bot"><img src="https://img.shields.io/badge/Deploy Project-Bot-blue?style=badge&logo=heroku"width="310" height="50"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Rzky3016/Secret-ChatBot"><img src="https://img.shields.io/badge/Deploy Secret-ChatBot-black?style=badge&logo=heroku"width="210" height="30"/></a>
 </b>
 
 ### Perintah UNTUK [@botfather](https://t.me/botfather)
@@ -18,7 +18,7 @@ search - Mencari lawan ngobrol
 refresh - Memperbarui ulang
 exit - Keluar obrolan
 ```
-# Credit 
+# Thanks To 
 
 *    [Kenkan](https://github.com/kenkannih) - KANGER
 *    [Apis](https://github.com/apisuserbot) - KANGER
