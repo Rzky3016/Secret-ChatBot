@@ -2,9 +2,9 @@
 
 𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏 adalah sebuah bot yang dirancang mirip sekali dengan anonymous bot , Dan kalian bisa menyari teman atau pasangan anda dengan bot ini.
  
-![𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏 Logo](https://telegra.ph/file/2ae553876a8e905b62f70.jpg)
+![𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏 Logo](https://telegra.ph/file/5fa1a03147b7ee32919bb.jpg)
 
-Gabung grup chat kami [𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏](https://t.me/https://t.me/RANDOM_GC)
+Gabung grup chat kami [𝙎𝙀𝘾𝙍𝙀𝙏 𝘾𝙃𝘼𝙏𝘽𝙊𝙏](https://t.me/https://t.me/RANDOM_GC) ||
 Quotes kami [Ruang Kata](https://t.me/https://t.me/ruangkataini)
 
 <b>
